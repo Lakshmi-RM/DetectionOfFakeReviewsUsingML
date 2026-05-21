@@ -1,4 +1,4 @@
-\# Project Title: Detection of Fake Reviews Using Machine Learning
+# Project Title: Detection of Fake Reviews Using Machine Learning
 
 
 
@@ -6,9 +6,9 @@ This project mainly focusses on detecting fake reviews using various Machine Lea
 
 
 
-\## Features:
+## Features:
 
-\##### Dataset Preprocessing
+##### Dataset Preprocessing
 
 * Verify Null Values In DataSet - checks if there are null values in dataset and discards them
 * Convert to Lower Case - converts all the reviews to lowercase letters
@@ -21,7 +21,7 @@ This project mainly focusses on detecting fake reviews using various Machine Lea
 
 
 
-\## Built With 
+## Built With 
 
 * Language: Python
 * Compiler: Python Compiler
@@ -29,13 +29,13 @@ This project mainly focusses on detecting fake reviews using various Machine Lea
 
 
 
-\## Getting Started
+## Getting Started
 
 Follow the below steps to set up and run this project locally on your machine.
 
 
 
-\### Pre-requisites
+### Pre-requisites
 
 * Please make sure you have a Python compiler installed in your machine.
 * Also install python libraries using the following command
@@ -45,20 +45,20 @@ Follow the below steps to set up and run this project locally on your machine.
 
 
 
-\### Dataset
+### Dataset
 
 * Download the Kaggle dataset from 'https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset/data'
 * Make sure you store the dataset.csv file in the same folder where the python file resides. 
 
 
 
-\### Execution
+### Execution
 
 Execute the script by using 'python filename.py'
 
 
 
-\### Menu 
+### Menu 
 
 Menu includes many options 
 
@@ -69,7 +69,7 @@ Menu includes many options
 
 
 
-\## License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 
